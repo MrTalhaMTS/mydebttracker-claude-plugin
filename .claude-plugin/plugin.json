@@ -19,5 +19,6 @@
     "zakat",
     "interest-free"
   ],
-  "privacyPolicyUrl": "https://mydebttracker.app/privacy"
+  "privacyPolicyUrl": "https://mydebttracker.app/privacy",
+  "icon": ".claude-plugin/icon.png"
 }
