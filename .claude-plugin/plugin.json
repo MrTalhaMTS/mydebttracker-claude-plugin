@@ -1,0 +1,23 @@
+{
+  "name": "mydebttracker",
+  "displayName": "MyDebtTracker",
+  "version": "1.0.0",
+  "description": "Ask Claude about the money you lent and borrowed: totals, what is overdue, who owes you, and log a repayment. Interest free, by MyDebtTracker.",
+  "author": {
+    "name": "MyDebtTracker",
+    "url": "https://mydebttracker.app"
+  },
+  "homepage": "https://mydebttracker.app",
+  "repository": "https://github.com/MrTalhaMTS/mydebttracker-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "debt",
+    "loans",
+    "lending",
+    "borrowing",
+    "personal-finance",
+    "zakat",
+    "interest-free"
+  ],
+  "privacyPolicyUrl": "https://mydebttracker.app/privacy"
+}

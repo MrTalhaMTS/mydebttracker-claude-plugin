@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mydebttracker": {
+      "type": "http",
+      "url": "https://mydebttracker.app/mcp"
+    }
+  }
+}
